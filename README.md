@@ -1,1 +1,1 @@
-# SuffleNet-SRNet-Low-Resource-Pose-Estimation
+# ShuffleNet-SRNet-Low-Resource-Pose-Estimation
